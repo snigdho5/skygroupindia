@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "611e6a43e3ca3c23242b8296"
+  },
+  "ean": "8904086360077",
+  "artical_no": "1004660",
+  "product_desc": "VEGA  LOOFAH FLOWER - DUAL COLOUR",
+  "rate": 100,
+  "pre_stock": 1,
+  "pre_stock_value": 100,
+  "post_stock": 0,
+  "post_stock_value": 0,
+  "variance_qty": 1,
+  "variance_value": 100,
+  "remarks": null,
+  "created_on": "2021-08-19"
+},{
+  "_id": {
+    "$oid": "611e6a43e3ca3c23242b8297"
+  },
+  "ean": "8906001052913",
+  "artical_no": "1008345",
+  "product_desc": "MOTHER'S RECEIPE GARLIC PASTE 100g",
+  "rate": 100,
+  "pre_stock": 1,
+  "pre_stock_value": 100,
+  "post_stock": 0,
+  "post_stock_value": 0,
+  "variance_qty": 1,
+  "variance_value": 100,
+  "remarks": null,
+  "created_on": "2021-08-19"
+},{
+  "_id": {
+    "$oid": "611e6a43e3ca3c23242b8298"
+  },
+  "ean": "1000000000024510",
+  "artical_no": "1004660",
+  "product_desc": "VEGA  LOOFAH FLOWER - DUAL COLOUR",
+  "rate": 100,
+  "pre_stock": 1,
+  "pre_stock_value": 100,
+  "post_stock": 0,
+  "post_stock_value": 0,
+  "variance_qty": 1,
+  "variance_value": 100,
+  "remarks": null,
+  "created_on": "2021-08-19"
+},{
+  "_id": {
+    "$oid": "611e6a43e3ca3c23242b8299"
+  },
+  "ean": "1000000000044820",
+  "artical_no": "1008345",
+  "product_desc": "MOTHER'S RECEIPE GARLIC PASTE 100g",
+  "rate": 100,
+  "pre_stock": 1,
+  "pre_stock_value": 100,
+  "post_stock": 0,
+  "post_stock_value": 0,
+  "variance_qty": 1,
+  "variance_value": 100,
+  "remarks": null,
+  "created_on": "2021-08-19"
+}]

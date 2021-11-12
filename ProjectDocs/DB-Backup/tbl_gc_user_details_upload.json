@@ -1,0 +1,5531 @@
+[{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ddd2"
+  },
+  "date": "2021-03-23",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3302",
+  "quantity": 52,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ddd3"
+  },
+  "date": "2021-03-23",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3303",
+  "quantity": 32,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ddd4"
+  },
+  "date": "2021-03-23",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3304",
+  "quantity": 45,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ddd5"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3305",
+  "quantity": 68,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ddd6"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3306",
+  "quantity": 72,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ddd7"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3307",
+  "quantity": 43,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ddd8"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3308",
+  "quantity": 107,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ddd9"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3309",
+  "quantity": 98,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ddda"
+  },
+  "date": "2021-03-23",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3310",
+  "quantity": 35,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dddb"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3313",
+  "quantity": 43,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dddc"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3314",
+  "quantity": 46,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dddd"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3315",
+  "quantity": 61,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ddde"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3316",
+  "quantity": 55,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dddf"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3317",
+  "quantity": 66,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dde0"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3318",
+  "quantity": 94,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dde1"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3319",
+  "quantity": 127,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dde2"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3320",
+  "quantity": 93,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dde3"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3321",
+  "quantity": 4,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dde4"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3323",
+  "quantity": 59,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dde5"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3324",
+  "quantity": 81,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dde6"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3325",
+  "quantity": 51,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dde7"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3326",
+  "quantity": 64,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dde8"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3327",
+  "quantity": 95,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dde9"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3328",
+  "quantity": 133,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ddea"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3329",
+  "quantity": 79,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ddeb"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3330",
+  "quantity": 129,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ddec"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3332",
+  "quantity": 36,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dded"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3333",
+  "quantity": 30,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ddee"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3334",
+  "quantity": 33,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ddef"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3335",
+  "quantity": 57,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ddf0"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3337",
+  "quantity": 81,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ddf1"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3338",
+  "quantity": 75,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ddf2"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3339",
+  "quantity": 191,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ddf3"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3340",
+  "quantity": 3,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ddf4"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3341",
+  "quantity": 41,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ddf5"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3342",
+  "quantity": 78,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ddf6"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3343",
+  "quantity": 88,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ddf7"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3344",
+  "quantity": 96,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ddf8"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3345",
+  "quantity": 65,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ddf9"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3346",
+  "quantity": 137,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ddfa"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3347",
+  "quantity": 126,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ddfb"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3348",
+  "quantity": 90,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ddfc"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3350",
+  "quantity": 44,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ddfd"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3354",
+  "quantity": 131,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ddfe"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3355",
+  "quantity": 265,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ddff"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3356",
+  "quantity": 25,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de00"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3357",
+  "quantity": 162,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de01"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3358",
+  "quantity": 103,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de02"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3359",
+  "quantity": 35,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de03"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3360",
+  "quantity": 71,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de04"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3361",
+  "quantity": 29,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de05"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3362",
+  "quantity": 231,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de06"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3363",
+  "quantity": 81,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de07"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3364",
+  "quantity": 108,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de08"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3365",
+  "quantity": 54,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de09"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3366",
+  "quantity": 5,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de0a"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3367",
+  "quantity": 205,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de0b"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3368",
+  "quantity": 7,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de0c"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3369",
+  "quantity": 120,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de0d"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3370",
+  "quantity": 64,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de0e"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3371",
+  "quantity": 83,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de0f"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3372",
+  "quantity": 66,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de10"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3373",
+  "quantity": 45,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de11"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3374",
+  "quantity": 121,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de12"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3375",
+  "quantity": 123,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de13"
+  },
+  "date": "2021-03-23",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3376",
+  "quantity": 175,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de14"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3377",
+  "quantity": 7,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de15"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3378",
+  "quantity": 98,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de16"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3379",
+  "quantity": 59,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de17"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3380",
+  "quantity": 64,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de18"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3381",
+  "quantity": 32,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de19"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3382",
+  "quantity": 61,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de1a"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3383",
+  "quantity": 62,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de1b"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3384",
+  "quantity": 151,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de1c"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3385",
+  "quantity": 115,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de1d"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3386",
+  "quantity": 173,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de1e"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3387",
+  "quantity": 141,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de1f"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3388",
+  "quantity": 98,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de20"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3389",
+  "quantity": 161,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de21"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3390",
+  "quantity": 141,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de22"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3391",
+  "quantity": 3,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de23"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3392",
+  "quantity": 109,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de24"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3393",
+  "quantity": 121,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de25"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3394",
+  "quantity": 124,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de26"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3395",
+  "quantity": 147,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de27"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3396",
+  "quantity": 178,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de28"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3397",
+  "quantity": 138,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de29"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3398",
+  "quantity": 123,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de2a"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3399",
+  "quantity": 175,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de2b"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3400",
+  "quantity": 7,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de2c"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3401",
+  "quantity": 145,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de2d"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3402",
+  "quantity": 134,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de2e"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3403",
+  "quantity": 118,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de2f"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3404",
+  "quantity": 198,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de30"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3405",
+  "quantity": 66,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de31"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3406",
+  "quantity": 120,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de32"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3407",
+  "quantity": 132,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de33"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3408",
+  "quantity": 127,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de34"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3409",
+  "quantity": 123,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de35"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3410",
+  "quantity": 96,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de36"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3411",
+  "quantity": 32,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de37"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3412",
+  "quantity": 88,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de38"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3413",
+  "quantity": 109,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de39"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3414",
+  "quantity": 80,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de3a"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3415",
+  "quantity": 164,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de3b"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3416",
+  "quantity": 97,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de3c"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3417",
+  "quantity": 4,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de3d"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3418",
+  "quantity": 80,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de3e"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3419",
+  "quantity": 75,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de3f"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3420",
+  "quantity": 82,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de40"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3421",
+  "quantity": 89,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de41"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3422",
+  "quantity": 116,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de42"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3423",
+  "quantity": 105,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de43"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3424",
+  "quantity": 231,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de44"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3425",
+  "quantity": 132,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de45"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3426",
+  "quantity": 5,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de46"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3427",
+  "quantity": 6,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de47"
+  },
+  "date": "2021-03-23",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3428",
+  "quantity": 35,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de48"
+  },
+  "date": "2021-03-23",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3429",
+  "quantity": 11,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de49"
+  },
+  "date": "2021-03-23",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3430",
+  "quantity": 40,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de4a"
+  },
+  "date": "2021-03-23",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3431",
+  "quantity": 32,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de4b"
+  },
+  "date": "2021-03-23",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3432",
+  "quantity": 14,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de4c"
+  },
+  "date": "2021-03-23",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3433",
+  "quantity": 5,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de4d"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3434",
+  "quantity": 191,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de4e"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3435",
+  "quantity": 106,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de4f"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3436",
+  "quantity": 556,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de50"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3437",
+  "quantity": 292,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de51"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3438",
+  "quantity": 284,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de52"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3439",
+  "quantity": 497,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de53"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3440",
+  "quantity": 654,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de54"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3441",
+  "quantity": 662,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de55"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3442",
+  "quantity": 12,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de56"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3443",
+  "quantity": 125,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de57"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3444",
+  "quantity": 247,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de58"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3445",
+  "quantity": 132,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de59"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3446",
+  "quantity": 91,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de5a"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3447",
+  "quantity": 70,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de5b"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3448",
+  "quantity": 51,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de5c"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3449",
+  "quantity": 127,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de5d"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3450",
+  "quantity": 69,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de5e"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3451",
+  "quantity": 106,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de5f"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3452",
+  "quantity": 11,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de60"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3454",
+  "quantity": 23,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de61"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3455",
+  "quantity": 30,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de62"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3456",
+  "quantity": 40,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de63"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3457",
+  "quantity": 40,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de64"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3458",
+  "quantity": 26,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de65"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3461",
+  "quantity": 32,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de66"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3462",
+  "quantity": 24,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de67"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3463",
+  "quantity": 29,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de68"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3464",
+  "quantity": 24,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de69"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3465",
+  "quantity": 32,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de6a"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3466",
+  "quantity": 71,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de6b"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3467",
+  "quantity": 36,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de6c"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3468",
+  "quantity": 34,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de6d"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3469",
+  "quantity": 48,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de6e"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3470",
+  "quantity": 44,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de6f"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3471",
+  "quantity": 41,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de70"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3472",
+  "quantity": 28,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de71"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3473",
+  "quantity": 60,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de72"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3474",
+  "quantity": 27,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de73"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3475",
+  "quantity": 31,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de74"
+  },
+  "date": "2021-03-23",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3476",
+  "quantity": 4,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de75"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3477",
+  "quantity": 46,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de76"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3478",
+  "quantity": 56,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de77"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3479",
+  "quantity": 57,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de78"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3480",
+  "quantity": 54,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de79"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3481",
+  "quantity": 78,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de7a"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3482",
+  "quantity": 87,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de7b"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3483",
+  "quantity": 46,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de7c"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3484",
+  "quantity": 54,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de7d"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3485",
+  "quantity": 108,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de7e"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3486",
+  "quantity": 75,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de7f"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3487",
+  "quantity": 47,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de80"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3488",
+  "quantity": 84,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de81"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3489",
+  "quantity": 84,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de82"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3490",
+  "quantity": 69,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de83"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3491",
+  "quantity": 123,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de84"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3492",
+  "quantity": 68,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de85"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3493",
+  "quantity": 259,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de86"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3494",
+  "quantity": 91,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de87"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3495",
+  "quantity": 10,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de88"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3496",
+  "quantity": 117,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de89"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3497",
+  "quantity": 45,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de8a"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3498",
+  "quantity": 102,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de8b"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3499",
+  "quantity": 184,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de8c"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3500",
+  "quantity": 51,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de8d"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3501",
+  "quantity": 54,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de8e"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3502",
+  "quantity": 105,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de8f"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3503",
+  "quantity": 176,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de90"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3504",
+  "quantity": 46,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de91"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3505",
+  "quantity": 49,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de92"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3506",
+  "quantity": 77,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de93"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3507",
+  "quantity": 217,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de94"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3508",
+  "quantity": 73,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de95"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3509",
+  "quantity": 97,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de96"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3510",
+  "quantity": 249,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de97"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3511",
+  "quantity": 38,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de98"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3512",
+  "quantity": 25,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de99"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3513",
+  "quantity": 31,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de9a"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3514",
+  "quantity": 34,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de9b"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3515",
+  "quantity": 47,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de9c"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3516",
+  "quantity": 148,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de9d"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3517",
+  "quantity": 309,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de9e"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3518",
+  "quantity": 304,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274de9f"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3519",
+  "quantity": 172,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dea0"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3520",
+  "quantity": 57,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dea1"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3521",
+  "quantity": 54,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dea2"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3522",
+  "quantity": 10,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dea3"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3523",
+  "quantity": 48,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dea4"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3524",
+  "quantity": 207,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dea5"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3525",
+  "quantity": 158,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dea6"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3526",
+  "quantity": 84,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dea7"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3527",
+  "quantity": 146,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dea8"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3528",
+  "quantity": 348,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dea9"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3529",
+  "quantity": 158,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274deaa"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3530",
+  "quantity": 259,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274deab"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3531",
+  "quantity": 111,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274deac"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3532",
+  "quantity": 102,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dead"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3533",
+  "quantity": 85,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274deae"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3534",
+  "quantity": 107,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274deaf"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3535",
+  "quantity": 101,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274deb0"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3536",
+  "quantity": 81,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274deb1"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3537",
+  "quantity": 97,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274deb2"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3538",
+  "quantity": 5,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274deb3"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3539",
+  "quantity": 159,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274deb4"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3540",
+  "quantity": 44,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274deb5"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3541",
+  "quantity": 42,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274deb6"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3542",
+  "quantity": 13,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274deb7"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3543",
+  "quantity": 15,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274deb8"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3544",
+  "quantity": 15,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274deb9"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3545",
+  "quantity": 319,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274deba"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3546",
+  "quantity": 220,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274debb"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3547",
+  "quantity": 6,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274debc"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3548",
+  "quantity": 59,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274debd"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3549",
+  "quantity": 59,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274debe"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3550",
+  "quantity": 60,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274debf"
+  },
+  "date": "2021-03-23",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3551",
+  "quantity": 194,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dec0"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3552",
+  "quantity": 120,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dec1"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3553",
+  "quantity": 87,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dec2"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3554",
+  "quantity": 117,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dec3"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3555",
+  "quantity": 167,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dec4"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3556",
+  "quantity": 76,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dec5"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3557",
+  "quantity": 91,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dec6"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3558",
+  "quantity": 78,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dec7"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3559",
+  "quantity": 63,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dec8"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3560",
+  "quantity": 68,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dec9"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3561",
+  "quantity": 75,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274deca"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3563",
+  "quantity": 130,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274decb"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3564",
+  "quantity": 6,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274decc"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3565",
+  "quantity": 98,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274decd"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3566",
+  "quantity": 11,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dece"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3567",
+  "quantity": 27,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274decf"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3568",
+  "quantity": 160,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ded0"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3569",
+  "quantity": 16,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ded1"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3570",
+  "quantity": 95,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ded2"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3571",
+  "quantity": 151,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ded3"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3572",
+  "quantity": 153,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ded4"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3573",
+  "quantity": 226,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ded5"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3574",
+  "quantity": 62,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ded6"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3575",
+  "quantity": 63,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ded7"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3576",
+  "quantity": 163,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ded8"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3577",
+  "quantity": 80,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274ded9"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3578",
+  "quantity": 61,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274deda"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3579",
+  "quantity": 58,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dedb"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3580",
+  "quantity": 56,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dedc"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3581",
+  "quantity": 70,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dedd"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3582",
+  "quantity": 188,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dede"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3583",
+  "quantity": 77,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dedf"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3584",
+  "quantity": 53,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dee0"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3585",
+  "quantity": 44,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dee1"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3586",
+  "quantity": 50,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dee2"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3587",
+  "quantity": 64,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dee3"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3588",
+  "quantity": 18,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dee4"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3589",
+  "quantity": 51,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dee5"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3590",
+  "quantity": 49,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dee6"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3591",
+  "quantity": 58,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dee7"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3592",
+  "quantity": 33,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dee8"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3593",
+  "quantity": 42,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dee9"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3595",
+  "quantity": 68,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274deea"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3596",
+  "quantity": 75,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274deeb"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3597",
+  "quantity": 99,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274deec"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3598",
+  "quantity": 127,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274deed"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3599",
+  "quantity": 71,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274deee"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3600",
+  "quantity": 79,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274deef"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3601",
+  "quantity": 51,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274def0"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3602",
+  "quantity": 99,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274def1"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3603",
+  "quantity": 102,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274def2"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3604",
+  "quantity": 92,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274def3"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3605",
+  "quantity": 240,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274def4"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3606",
+  "quantity": 133,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274def5"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3607",
+  "quantity": 205,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274def6"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3608",
+  "quantity": 131,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274def7"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3609",
+  "quantity": 28,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274def8"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3610",
+  "quantity": 29,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274def9"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3611",
+  "quantity": 21,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274defa"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3612",
+  "quantity": 28,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274defb"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3613",
+  "quantity": 15,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274defc"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3614",
+  "quantity": 40,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274defd"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3615",
+  "quantity": 15,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274defe"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3616",
+  "quantity": 23,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274deff"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3617",
+  "quantity": 71,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df00"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3618",
+  "quantity": 170,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df01"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3619",
+  "quantity": 19,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df02"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3620",
+  "quantity": 60,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df03"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3621",
+  "quantity": 260,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df04"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3622",
+  "quantity": 195,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df05"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3623",
+  "quantity": 17,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df06"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3624",
+  "quantity": 17,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df07"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3625",
+  "quantity": 83,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df08"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3626",
+  "quantity": 80,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df09"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3627",
+  "quantity": 24,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df0a"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3628",
+  "quantity": 189,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df0b"
+  },
+  "date": "2021-03-23",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3629",
+  "quantity": 41,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df0c"
+  },
+  "date": "2021-03-23",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3630",
+  "quantity": 75,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df0d"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3631",
+  "quantity": 44,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df0e"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3632",
+  "quantity": 83,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df0f"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3633",
+  "quantity": 187,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df10"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3634",
+  "quantity": 107,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df11"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3635",
+  "quantity": 120,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df12"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3636",
+  "quantity": 181,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df13"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3637",
+  "quantity": 101,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df14"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3638",
+  "quantity": 78,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df15"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3639",
+  "quantity": 87,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df16"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3640",
+  "quantity": 56,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df17"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3641",
+  "quantity": 95,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df18"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3642",
+  "quantity": 102,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df19"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3643",
+  "quantity": 169,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df1a"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3644",
+  "quantity": 46,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df1b"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3645",
+  "quantity": 72,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df1c"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3646",
+  "quantity": 20,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df1d"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3647",
+  "quantity": 45,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df1e"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3648",
+  "quantity": 40,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df1f"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3649",
+  "quantity": 73,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df20"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3650",
+  "quantity": 105,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df21"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3655",
+  "quantity": 96,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df22"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3656",
+  "quantity": 41,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df23"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3657",
+  "quantity": 68,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df24"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3658",
+  "quantity": 42,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df25"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3659",
+  "quantity": 77,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df26"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3660",
+  "quantity": 84,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df27"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3661",
+  "quantity": 57,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df28"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3662",
+  "quantity": 64,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df29"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3663",
+  "quantity": 82,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df2a"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3664",
+  "quantity": 14,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df2b"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3665",
+  "quantity": 35,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df2c"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3666",
+  "quantity": 76,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df2d"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3667",
+  "quantity": 25,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df2e"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3668",
+  "quantity": 62,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df2f"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3669",
+  "quantity": 54,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df30"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3670",
+  "quantity": 38,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df31"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3671",
+  "quantity": 12,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df32"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3672",
+  "quantity": 26,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df33"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3673",
+  "quantity": 35,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df34"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3674",
+  "quantity": 60,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df35"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3675",
+  "quantity": 35,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df36"
+  },
+  "date": "2021-03-23",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3676",
+  "quantity": 36,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df37"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3677",
+  "quantity": 124,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df38"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3678",
+  "quantity": 94,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df39"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3679",
+  "quantity": 6,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df3a"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3680",
+  "quantity": 67,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df3b"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3681",
+  "quantity": 137,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df3c"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3682",
+  "quantity": 95,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df3d"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3683",
+  "quantity": 79,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df3e"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3684",
+  "quantity": 53,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df3f"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3685",
+  "quantity": 113,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df40"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3686",
+  "quantity": 47,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df41"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3687",
+  "quantity": 95,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df42"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3688",
+  "quantity": 10,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df43"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3689",
+  "quantity": 22,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df44"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3690",
+  "quantity": 37,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df45"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3691",
+  "quantity": 182,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df46"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3692",
+  "quantity": 52,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df47"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3693",
+  "quantity": 65,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df48"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3694",
+  "quantity": 62,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df49"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3695",
+  "quantity": 225,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df4a"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3697",
+  "quantity": 145,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df4b"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3698",
+  "quantity": 106,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df4c"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3700",
+  "quantity": 109,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df4d"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3701",
+  "quantity": 29,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df4e"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3702",
+  "quantity": 24,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df4f"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3703",
+  "quantity": 63,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df50"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3704",
+  "quantity": 42,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df51"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3705",
+  "quantity": 58,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df52"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3706",
+  "quantity": 35,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df53"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3707",
+  "quantity": 47,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df54"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3708",
+  "quantity": 47,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df55"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3709",
+  "quantity": 168,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df56"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3710",
+  "quantity": 243,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df57"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3711",
+  "quantity": 242,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df58"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3712",
+  "quantity": 36,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df59"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3713",
+  "quantity": 0,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df5a"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3714",
+  "quantity": 0,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df5b"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3715",
+  "quantity": 13,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df5c"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3716",
+  "quantity": 22,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df5d"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3717",
+  "quantity": 67,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df5e"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3718",
+  "quantity": 103,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df5f"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3719",
+  "quantity": 67,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df60"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3720",
+  "quantity": 19,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df61"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3721",
+  "quantity": 94,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df62"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3722",
+  "quantity": 91,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df63"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3723",
+  "quantity": 10,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df64"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3724",
+  "quantity": 78,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df65"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3725",
+  "quantity": 42,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df66"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3726",
+  "quantity": 42,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df67"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3727",
+  "quantity": 40,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df68"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3728",
+  "quantity": 95,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df69"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3729",
+  "quantity": 26,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df6a"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3730",
+  "quantity": 19,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df6b"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3731",
+  "quantity": 79,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df6c"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3732",
+  "quantity": 97,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df6d"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3733",
+  "quantity": 25,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df6e"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3734",
+  "quantity": 99,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df6f"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3735",
+  "quantity": 49,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df70"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3736",
+  "quantity": 58,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df71"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3737",
+  "quantity": 96,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df72"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3738",
+  "quantity": 24,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df73"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3739",
+  "quantity": 83,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df74"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3740",
+  "quantity": 5,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df75"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3741",
+  "quantity": 126,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df76"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3742",
+  "quantity": 76,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df77"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3743",
+  "quantity": 113,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df78"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3744",
+  "quantity": 213,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df79"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3745",
+  "quantity": 173,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df7a"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3746",
+  "quantity": 177,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df7b"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3747",
+  "quantity": 139,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df7c"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3748",
+  "quantity": 28,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df7d"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3749",
+  "quantity": 52,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df7e"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3750",
+  "quantity": 80,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df7f"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3751",
+  "quantity": 30,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df80"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3752",
+  "quantity": 24,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df81"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3753",
+  "quantity": 113,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df82"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3754",
+  "quantity": 37,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df83"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3755",
+  "quantity": 118,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df84"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3756",
+  "quantity": 61,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df85"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3757",
+  "quantity": 86,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df86"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3758",
+  "quantity": 22,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df87"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3759",
+  "quantity": 164,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df88"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3760",
+  "quantity": 56,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df89"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3761",
+  "quantity": 40,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df8a"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3762",
+  "quantity": 56,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df8b"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3763",
+  "quantity": 68,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df8c"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3764",
+  "quantity": 25,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df8d"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3765",
+  "quantity": 19,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df8e"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3766",
+  "quantity": 37,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df8f"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3767",
+  "quantity": 104,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df90"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3770",
+  "quantity": 10,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df91"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3771",
+  "quantity": 26,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df92"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3772",
+  "quantity": 22,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df93"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3773",
+  "quantity": 14,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df94"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3774",
+  "quantity": 47,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df95"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3775",
+  "quantity": 25,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df96"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3777",
+  "quantity": 38,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df97"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3778",
+  "quantity": 89,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df98"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3779",
+  "quantity": 57,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df99"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3780",
+  "quantity": 80,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df9a"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3781",
+  "quantity": 100,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df9b"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3782",
+  "quantity": 43,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df9c"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3783",
+  "quantity": 30,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df9d"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3784",
+  "quantity": 45,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df9e"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3785",
+  "quantity": 123,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274df9f"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3786",
+  "quantity": 31,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfa0"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3787",
+  "quantity": 48,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfa1"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3788",
+  "quantity": 64,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfa2"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3789",
+  "quantity": 28,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfa3"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3790",
+  "quantity": 25,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfa4"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3791",
+  "quantity": 27,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfa5"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3792",
+  "quantity": 43,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfa6"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3793",
+  "quantity": 53,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfa7"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3794",
+  "quantity": 68,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfa8"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3795",
+  "quantity": 55,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfa9"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3796",
+  "quantity": 43,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfaa"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3797",
+  "quantity": 61,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfab"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3798",
+  "quantity": 41,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfac"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3799",
+  "quantity": 36,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfad"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3800",
+  "quantity": 96,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfae"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3801",
+  "quantity": 222,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfaf"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3802",
+  "quantity": 89,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfb0"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3803",
+  "quantity": 285,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfb1"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3804",
+  "quantity": 223,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfb2"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3805",
+  "quantity": 70,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfb3"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3806",
+  "quantity": 91,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfb4"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3807",
+  "quantity": 95,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfb5"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3808",
+  "quantity": 92,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfb6"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3809",
+  "quantity": 188,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfb7"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3810",
+  "quantity": 118,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfb8"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3811",
+  "quantity": 252,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfb9"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3812",
+  "quantity": 219,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfba"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3813",
+  "quantity": 337,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfbb"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3814",
+  "quantity": 401,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfbc"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3815",
+  "quantity": 326,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfbd"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3816",
+  "quantity": 131,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfbe"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3817",
+  "quantity": 44,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfbf"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3818",
+  "quantity": 40,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfc0"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3819",
+  "quantity": 58,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfc1"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3820",
+  "quantity": 91,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfc2"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3821",
+  "quantity": 72,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfc3"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3822",
+  "quantity": 68,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfc4"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3823",
+  "quantity": 96,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfc5"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3824",
+  "quantity": 104,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4982a6beca5c9274dfc6"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3825",
+  "quantity": 24,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfc7"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3826",
+  "quantity": 19,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfc8"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3827",
+  "quantity": 16,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfc9"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3828",
+  "quantity": 21,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfca"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3829",
+  "quantity": 45,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfcb"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3830",
+  "quantity": 43,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfcc"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3831",
+  "quantity": 47,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfcd"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3832",
+  "quantity": 32,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfce"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3833",
+  "quantity": 39,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfcf"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3834",
+  "quantity": 27,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfd0"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3835",
+  "quantity": 31,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfd1"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3836",
+  "quantity": 27,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfd2"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3837",
+  "quantity": 35,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfd3"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3838",
+  "quantity": 32,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfd4"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3839",
+  "quantity": 34,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfd5"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3840",
+  "quantity": 18,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfd6"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3841",
+  "quantity": 23,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfd7"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3842",
+  "quantity": 25,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfd8"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3843",
+  "quantity": 26,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfd9"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3844",
+  "quantity": 29,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfda"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3845",
+  "quantity": 9,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfdb"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3846",
+  "quantity": 49,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfdc"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3847",
+  "quantity": 71,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfdd"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3848",
+  "quantity": 65,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfde"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3849",
+  "quantity": 64,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfdf"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3850",
+  "quantity": 45,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfe0"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3851",
+  "quantity": 31,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfe1"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3852",
+  "quantity": 29,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfe2"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3853",
+  "quantity": 36,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfe3"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3854",
+  "quantity": 67,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfe4"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3855",
+  "quantity": 34,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfe5"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3856",
+  "quantity": 62,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfe6"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3860",
+  "quantity": 58,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfe7"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3861",
+  "quantity": 46,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfe8"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3862",
+  "quantity": 0,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfe9"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3863",
+  "quantity": 0,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfea"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3864",
+  "quantity": 0,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfeb"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3865",
+  "quantity": 12,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfec"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3866",
+  "quantity": 0,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfed"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3867",
+  "quantity": 0,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfee"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3868",
+  "quantity": 87,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dfef"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3869",
+  "quantity": 36,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dff0"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3870",
+  "quantity": 35,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dff1"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3871",
+  "quantity": 48,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dff2"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3872",
+  "quantity": 73,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dff3"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3873",
+  "quantity": 70,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dff4"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3877",
+  "quantity": 1201,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dff5"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3878",
+  "quantity": 109,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dff6"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3880",
+  "quantity": 80,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dff7"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3881",
+  "quantity": 230,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dff8"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3885",
+  "quantity": 193,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dff9"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3886",
+  "quantity": 152,
+  "created_on": "2021-08-31"
+},{
+  "_id": {
+    "$oid": "612d4983a6beca5c9274dffa"
+  },
+  "date": "2021-03-24",
+  "stock_take_no": "S000473054",
+  "store_code": "S004",
+  "ean": "S00420210323F3887",
+  "quantity": 22,
+  "created_on": "2021-08-31"
+}]

@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "60c445d4be89c2e28da814af"
+  },
+  "name": "Manoj Kumar Sah",
+  "email": "manoj.lnsel@gmail.com",
+  "phone": "1234567891",
+  "mobile": "1234567891",
+  "street": "Test Street",
+  "city": "Test City",
+  "state_id": "60cb907c438284b0a1bbc657",
+  "user_image": "image_1627917754.jpg",
+  "gender": "1",
+  "branch_id": "BR-02",
+  "user_type": "60cb913c438284b0a1bbc659",
+  "password": "827ccb0eea8a706c4c34a16891f84e7bMTIzNDU%3D",
+  "login_attempt": 0,
+  "status": 1,
+  "last_login": "2021-08-31 02:36:05",
+  "ip_address": "157.40.151.239",
+  "created_on": "2021-06-12 10:51:52",
+  "updated_on": "2021-08-03 13:38:56"
+},{
+  "_id": {
+    "$oid": "6107aa9df925565f6c79eb72"
+  },
+  "branch_id": "BR-02",
+  "email": "nitish@gmail.com",
+  "name": "Nitish Anand",
+  "user_type": "60cb9149438284b0a1bbc65a",
+  "gender": "1",
+  "phone": "1234567891",
+  "mobile": "1234567891",
+  "street": "Street Name",
+  "city": "City",
+  "state_id": "60cb907c438284b0a1bbc657",
+  "status": 0,
+  "user_image": "image_1627916875.jpg",
+  "login_attempt": 0,
+  "last_login": "0000-00-00 00:00:00",
+  "ip_address": "157.40.143.208",
+  "password": "827ccb0eea8a706c4c34a16891f84e7bMTIzNDU%3D",
+  "created_on": "2021-08-02 13:49:41",
+  "updated_on": "2021-08-02 20:37:55"
+},{
+  "_id": {
+    "$oid": "610e2fc32f8c52751f25a312"
+  },
+  "branch_id": "Sky/Kol/1",
+  "email": "soumyabrata@skygroupindia.org",
+  "name": "Soumyabrata Datta",
+  "user_type": "60cb9149438284b0a1bbc65a",
+  "gender": "1",
+  "phone": "8296649514",
+  "mobile": "8296649514",
+  "street": "kasba",
+  "city": "Kolkata",
+  "state_id": "60cb908c438284b0a1bbc658",
+  "status": 1,
+  "user_image": "image_1629381950.JPG",
+  "login_attempt": 0,
+  "last_login": "0000-00-00 00:00:00",
+  "ip_address": "192.168.0.62",
+  "password": "827ccb0eea8a706c4c34a16891f84e7bMTIzNDU%3D",
+  "created_on": "2021-08-07 12:31:23",
+  "updated_on": "2021-08-28 12:56:01"
+}]

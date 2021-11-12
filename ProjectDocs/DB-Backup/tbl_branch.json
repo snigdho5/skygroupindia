@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "6107a1ee36dbef6b976deee2"
+  },
+  "branch": "Branch 01",
+  "code": "BR-01",
+  "status": 0,
+  "created_on": "2021-08-02 13:12:38",
+  "updated_on": "2021-08-02 13:12:38"
+},{
+  "_id": {
+    "$oid": "6107a20ae465cf2d4e3fd492"
+  },
+  "branch": "Branch 02",
+  "code": "BR-02",
+  "status": 0,
+  "created_on": "2021-08-02 13:13:06",
+  "updated_on": "2021-08-02 13:13:06"
+},{
+  "_id": {
+    "$oid": "6107a2255830640c48371e72"
+  },
+  "branch": "Branch 03",
+  "code": "BR-03",
+  "status": 0,
+  "created_on": "2021-08-02 13:13:33",
+  "updated_on": "2021-08-02 13:13:33"
+},{
+  "_id": {
+    "$oid": "610e2f2904aae96c345cbd52"
+  },
+  "branch": "Kolkata",
+  "code": "Sky/Kol/1",
+  "status": 1,
+  "created_on": "2021-08-07 12:28:49",
+  "updated_on": "2021-08-28 12:55:52"
+},{
+  "_id": {
+    "$oid": "610e2f3a46497e4e19452b02"
+  },
+  "branch": "Hyderabad",
+  "code": "Sky/Hyd/1",
+  "status": 1,
+  "created_on": "2021-08-07 12:29:06",
+  "updated_on": "2021-08-07 12:29:06"
+}]
